@@ -1,4 +1,4 @@
-# Bootstrap
+# Boilerplate
 Api base
 
 ## Getting started
@@ -69,22 +69,7 @@ If you see the next output in the console, the API has been started successfully
 
 This section describes the calls that accepts the API
 
-### `GET /bootstrap/endpoint/{jobid}`
 
-### `POST /bootstrap/endpoint/`
-
-{
-	"jobtitle":"Bootstrap",
-	"jobdescription":"Ingeniero para desarrollar el bootstrap"
-}
+### `POST /todo/graphql/`
 
 Endpoint example
-
-#### To see the full API documentation check the url in the environment of [development](http://10.10.30.84:5010/bootstrap/info/index.html) or [production]()
-
-## Links
-
-Here are some important links:
-
-- Project homepage: https://github.com/occmundial/api-echo-template
-- Repository: https://github.com/occmundial/api-echo-template
