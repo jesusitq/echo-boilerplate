@@ -1,0 +1,17 @@
+{
+
+        "port": "4001",
+        "corsAllowedOrigins": [
+            "*"
+        ],
+        "corsAllowedMethods": [
+            "GET",
+            "DELETE"
+        ],
+        "corsAllowedHeaders": [
+            "X-Requested-With",
+            "Content-Type",
+            "Authorization"
+        ]
+    
+}
